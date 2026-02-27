@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#_Programs\\Coffee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E2B80E-AB85-4116-BFEC-08C82B8B8A1A}|Coffee\\Coffee.csproj|f:\\c#_programs\\coffee\\coffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E2B80E-AB85-4116-BFEC-08C82B8B8A1A}|Coffee\\Coffee.csproj|solutionrelative:coffee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#_Programs\\Coffee\\Coffee\\Program.cs",
+              "RelativeDocumentMoniker": "Coffee\\Program.cs",
+              "ToolTip": "F:\\C#_Programs\\Coffee\\Coffee\\Program.cs*",
+              "RelativeToolTip": "Coffee\\Program.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:25:00.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
