@@ -1,7 +1,0 @@
-F:\C#_Programs\Coffee\Coffee\bin\Debug\Coffee.exe.config
-F:\C#_Programs\Coffee\Coffee\bin\Debug\Coffee.exe
-F:\C#_Programs\Coffee\Coffee\bin\Debug\Coffee.pdb
-F:\C#_Programs\Coffee\Coffee\obj\Debug\Coffee.csproj.AssemblyReference.cache
-F:\C#_Programs\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
-F:\C#_Programs\Coffee\Coffee\obj\Debug\Coffee.exe
-F:\C#_Programs\Coffee\Coffee\obj\Debug\Coffee.pdb
